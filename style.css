@@ -8,8 +8,14 @@ h1:hover {
   color: blue;
   font-weight: bold;
 }
-img {
+#Logo {
   display: block;
   margin: 0 auto;
   width: 150px;
+}
+#cover-photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border-radius: 16px;
 }
