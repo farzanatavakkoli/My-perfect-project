@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  color: #c37101;
+}
+
+h1:hover {
+  font-style: italic;
+  color: blue;
+  font-weight: bold;
+}
